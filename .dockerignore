@@ -1,0 +1,6 @@
+# idea files
+.idea/
+
+# builds
+target/
+node_modules/
